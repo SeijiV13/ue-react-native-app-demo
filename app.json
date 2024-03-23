@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bcb1569f-236d-4d2d-824d-42c2c1b3dec9"
+      }
+    },
+    "owner": "svillafranca10"
   }
 }
